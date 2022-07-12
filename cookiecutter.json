@@ -3,11 +3,5 @@
     "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
     "author_name": "Javier Daza",
     "description": "",
-    "open_source_license": ["MIT", "BSD-3-Clause", "No license file"],
-    "s3_bucket": "",
-    "aws_profile": "",
-    "python_interpreter": ["python3", "python"],
-    "host": "localhost",
-    "port": 8501,
-    "api_key": "XXXXXXXXXXXX"
+    "open_source_license": ["MIT", "BSD-3-Clause", "No license file"]
   }
