@@ -1,5 +1,7 @@
-{{cookiecutter.project_name}}
+## {{cookiecutter.project_name}}
+
 {{cookiecutter.description}}
 
-License
+## License
+
 {{cookiecutter.open_source_license}}
